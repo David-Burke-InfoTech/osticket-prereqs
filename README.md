@@ -74,21 +74,21 @@ You should now have 2 new folders on your desktop. One will be the executable fi
 <img width="1911" height="1039" alt="image" src="https://github.com/user-attachments/assets/2e8ab4c5-571e-434e-8c96-b54dfefb9972" />
 
 </p>
-8
+Type control panel in the search bar on the desktop. Click on the control panel
 <br />
 
 <p>
 <img width="1907" height="1047" alt="OSticket-8" src="https://github.com/user-attachments/assets/1331494d-bbe0-404b-975a-0f2071296792" />
 
 </p>
-9
+Click on Programs
 <br />
 
 <p>
 <img width="1907" height="1072" alt="OSticket-9" src="https://github.com/user-attachments/assets/1f6e2e95-b3d8-40c0-af88-7f7fbbaf31bb" />
 
 </p>
-10
+Click Turn Windows features on or off
 <br />
 
 <p>
