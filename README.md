@@ -109,98 +109,100 @@ Select the feature "World Wide Web Services". Again, a drop-down will appear wit
 <img width="1907" height="1074" alt="Osticket-12" src="https://github.com/user-attachments/assets/e9d18adf-81b8-44fa-85b6-ee7fa52c0d01" />
 
 </p>
-13
+Select the feature "Application Development Features". A drop-down will appear with other features.
 <br />
 
 <p>
 <img width="1907" height="1071" alt="OSticket-13" src="https://github.com/user-attachments/assets/9b4fdf41-59fc-477d-8b75-c1f392334c8f" />
 
-</p>
-14
+Select the feature "CGI". A check mark will appear after selecting the feature "CGI".
 <br />
 
 <p>
 <img width="1909" height="1072" alt="OSticket-14" src="https://github.com/user-attachments/assets/458449e8-f2c9-417b-99f0-22ad09af9e5f" />
 
 </p>
-15
+Click OK
 <br />
 
 <p>
 <img width="1176" height="667" alt="OSticket-15" src="https://github.com/user-attachments/assets/e7689178-cfb9-4513-9993-8157606feae2" />
 
 </p>
-16
+On your desktop, open the file we previously unzipped onto the desktop labeled osTicket-Insatlation.
 <br />
 
 <p>
 <img width="1910" height="1075" alt="OSticket-16" src="https://github.com/user-attachments/assets/007e069a-dc46-44db-acfa-19111c4eb13a" />
 
 </p>
-17
+Open osTicket-Installation-Files
 <br />
 
 <p>
 <img width="1908" height="1075" alt="OSticket-17" src="https://github.com/user-attachments/assets/8ab48e0d-7e9f-45f5-9c70-653587fb32df" />
 
 </p>
-18
+Open PHPManagerForIIS_V1.5.0
 <br />
 
 <p>
 <img width="1913" height="1074" alt="OSticket-18" src="https://github.com/user-attachments/assets/036cd6ef-a8ca-4a0e-b8e0-c8f137c4d4f5" />
 
 </p>
-19
+A new window will appear called PHP Manager for IIS. Start the install by clicking Next.
 <br />
 
 <p>
 <img width="1915" height="1077" alt="OSticket-19" src="https://github.com/user-attachments/assets/68b92c4c-4122-4a52-b88d-f3f61ab79882" />
 
 </p>
-20
+Click "I agree" and Next to continue
 <br />
 
 <p>
 <img width="1909" height="1076" alt="OSticket-20" src="https://github.com/user-attachments/assets/8f41d1a4-019b-418c-bbf5-1300d52a9380" />
 
 </p>
-21
+Click "close" after the installation is finished.
 <br />
 
 <p>
 <img width="1905" height="1076" alt="Osticket-21" src="https://github.com/user-attachments/assets/33808b3e-503a-4919-a896-bb59af16782b" />
 
 </p>
-22
+You should still have the "osTicket-Installation-File" open.
+Click on " rewrite_amd64_en-Us"
 <br />
 
 <p>
 <img width="1909" height="1076" alt="OSticket-22" src="https://github.com/user-attachments/assets/7fd4ca7f-8f66-4069-a786-fce4d6976d91" />
 
 </p>
-23
+A new window will appear: IIS URL Rewrite Module 2 Setup.
 <br />
 
 <p>
 <img width="1909" height="1076" alt="OSticket-23" src="https://github.com/user-attachments/assets/bc1e79ea-7c8e-4dda-ad32-a9af20eef9b9" />
 
 </p>
-24
+Click "I accept the terms in the License Agreement".
+Click Install
 <br />
 
 <p>
 <img width="1912" height="1076" alt="OSticket-24" src="https://github.com/user-attachments/assets/6ad601ce-2b11-49a3-8da3-3ab542bc5841" />
 
 </p>
-25
+Click "Finish".
 <br />
 
 <p>
 <img width="1912" height="1076" alt="OSticket-24" src="https://github.com/user-attachments/assets/6ad601ce-2b11-49a3-8da3-3ab542bc5841" />
 
 </p>
-26
+Open a second file explorer window.
+Right-click the file icon on the taskbar.
 <br />
 
 <p>
