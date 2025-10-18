@@ -209,168 +209,172 @@ Right-click the file icon on the taskbar.
 <img width="1907" height="1076" alt="OSticket-27" src="https://github.com/user-attachments/assets/11653280-5731-4c28-b6e3-a9fdc07eb575" />
 
 </p>
-27
+Click File Explorer
 <br />
 
 <p>
 <img width="1907" height="1076" alt="OSticket-26" src="https://github.com/user-attachments/assets/50bc4251-6a57-4166-a895-74897d3d3064" />
 
 </p>
-28
+Click This PC
 <br />
 
 <p>
 <img width="1910" height="1076" alt="OSticket-28" src="https://github.com/user-attachments/assets/3b326b4e-19fa-471f-98d0-151701ac7220" />
 
 </p>
-29
+Click Windows(C:) drive
 <br />
 
 <p>
 <img width="1909" height="1077" alt="OSticket-29" src="https://github.com/user-attachments/assets/701c66ce-e71e-467c-a5c8-0b17c27eb828" />
 
 </p>
-30
+Right-click and create a New Folder. Name it PHP.
 <br />
 
 <p>
 <img width="1912" height="1078" alt="Osticket-30" src="https://github.com/user-attachments/assets/af3ac1ed-ce1d-46e6-93f9-0f1ae52edfa7" />
 
 </p>
-31
+Notice the new folder PHP
 <br />
 
 <p>
 <img width="1912" height="1076" alt="OSticket-31" src="https://github.com/user-attachments/assets/a22f551f-f1c1-41ee-b337-05f45e660d23" />
 
 </p>
-32
+Adjust and move the two file explorer windows to make them both fit on the screen.
+One file explorer window should be the Windows(C:) drive, and the other should be osTicket-Installation-Files.
 <br />
 
 <p>
 <img width="1915" height="1075" alt="OSticket-32" src="https://github.com/user-attachments/assets/63e24f59-3d9f-443d-b9ff-80671ff45fc3" />
 
 </p>
-33
+Unzip the "PHP-7.3.8-nts-Win32-VC15-x86" by right-clicking it and clicking Extract All.
 <br />
 
 <p>
 <img width="1912" height="1076" alt="OSticket-33" src="https://github.com/user-attachments/assets/95787b75-02a1-4c22-8a17-78aaf83a8fd0" />
 
 </p>
-34
+Click Browse
 <br />
 
 <p>
 <img width="1913" height="1077" alt="OSticket-34" src="https://github.com/user-attachments/assets/fa1d3cc1-369e-4f4e-aa45-0f46a913bb53" />
 
 </p>
-35
+Click Windows(C:)
 <br />
 
 <p>
 <img width="1912" height="1076" alt="OSticket-35" src="https://github.com/user-attachments/assets/c0e5ab61-9a99-4de0-954d-b8448ceceff4" />
 
 </p>
-36
+Select PHP
 <br />
 
 <p>
 <img width="1914" height="1078" alt="OSticket-36" src="https://github.com/user-attachments/assets/1b04f17e-e9cb-420b-ba98-e9f455c22661" />
 
 </p>
-37
+Click Extract
 <br />
 
 <p>
 <img width="1917" height="1078" alt="OSTICKET-37" src="https://github.com/user-attachments/assets/bed0a6a5-f40c-44d6-872d-589694148acf" />
 
 </p>
-38
+Open VC_redist.x86
 <br />
 
 <p>
 <img width="1916" height="1078" alt="OSticket-38" src="https://github.com/user-attachments/assets/6a4b8a5a-b3d7-47cb-a67e-cfa42b67983d" />
 
 </p>
-39
+Click "I agree to the license terms and agreements". Then click Install.
 <br />
 
 <p>
 <img width="1912" height="1079" alt="Osticket-39" src="https://github.com/user-attachments/assets/29f384aa-f318-4b71-8893-0c58a22459a0" />
 
 </p>
-40
+Click Close after it has installed.
 <br />
 
 <p>
 <img width="1917" height="1079" alt="OSticket-40" src="https://github.com/user-attachments/assets/150e7620-b992-4c99-8641-1d54e5ca015c" />
 
 </p>
-41
+Open mysql-5.5.62-win32
 <br />
 
 <p>
 <img width="1912" height="1079" alt="OSticket-41" src="https://github.com/user-attachments/assets/2e64b0e4-9a32-40f2-803c-547ded5d7461" />
 
 </p>
-42
+A new window will appear labeled "MySQL Server 5.5 Setup.
+Click Next.
 <br />
 
 <p>
 <img width="1912" height="1079" alt="OSticket-41" src="https://github.com/user-attachments/assets/2e64b0e4-9a32-40f2-803c-547ded5d7461" />
 
 </p>
-43
+Click "I accept the terms in the License Agreement". 
+Click Next to start the install.
 <br />
 
 <p>
 <img width="1914" height="1079" alt="OSticket-43" src="https://github.com/user-attachments/assets/12af825d-6f2f-49c5-b895-c6d2d2e9eda1" />
 
 </p>
-44
+Click "Typical" when presented.
 <br />
 
 <p>
 <img width="1914" height="1079" alt="OSticket-44" src="https://github.com/user-attachments/assets/89d8a0a2-9eff-4872-93fd-c08e387e1029" />
 
 </p>
-45
+Click Install
 <br />
 
 <p>
 <img width="1916" height="1079" alt="OSticket-45" src="https://github.com/user-attachments/assets/e52fd359-05c6-4229-baa2-b3ae3d210d05" />
 
 </p>
-46
+Click Finish
 <br />
 
 <p>
 <img width="1916" height="1079" alt="OSticket-46" src="https://github.com/user-attachments/assets/7dde4e2b-6565-4da3-98cf-2139eef30d57" />
 
 </p>
-47
+Click Next
 <br />
 
 <p>
 <img width="1916" height="1079" alt="OSticket-46" src="https://github.com/user-attachments/assets/7dde4e2b-6565-4da3-98cf-2139eef30d57" />
 
 </p>
-48
+Select Standard Configuration and click Next
 <br />
 
 <p>
 <img width="1918" height="1079" alt="OSticket-48" src="https://github.com/user-attachments/assets/82efea5c-b588-416f-a29b-1220c4fc3998" />
 
 </p>
-49
+Click Next
 <br />
 
 <p>
 <img width="1909" height="1076" alt="OSticket-49" src="https://github.com/user-attachments/assets/fb1679fc-0e1d-4cdd-a603-24acaa0ac94e" />
 
 </p>
-50
+Create a password of "root" and confirm the password "root".
+Click Next
 <br />
 
 <p>
