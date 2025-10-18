@@ -530,37 +530,30 @@ osTicket
 <img width="1914" height="1079" alt="osTicket-71" src="https://github.com/user-attachments/assets/a1f07666-b385-414b-bb9c-63f8d36198a3" />
 
 </p>
-We should now have the two file explorer windows open 
-One with osTicket is renamed under the wwwroot folder 
-The osTicket-v1.15.8 folder only contains a file named scripts
+We should now have the two file explorer windows open
+<P>
+One where osTicket is renamed under the wwwroot folder. The osTicket-v1.15.8 folder only contains a file named scripts
 <br />
 
 <p>
 <img width="1914" height="1079" alt="osTicket-72" src="https://github.com/user-attachments/assets/fc4bace4-bb42-4fce-9d5f-d9eb8ecb6ac2" />
 
 </p>
-73
-<br />
-
-<p>
-<img width="1914" height="1079" alt="osTicket-72" src="https://github.com/user-attachments/assets/fc4bace4-bb42-4fce-9d5f-d9eb8ecb6ac2" />
-
-</p>
-74
+Open Internet Information Services (IIS) Manager. Stop the server by clicking Stop on the right side under Actions, Manage Server.
 <br />
 
 <p>
 <img width="1918" height="1079" alt="osTicket-74" src="https://github.com/user-attachments/assets/f576ef07-058d-48bd-a73d-b84b41f13df4" />
 
 </p>
-75
+Start the server after letting it rest for 10 seconds.
 <br />
 
 <p>
 <img width="1913" height="1079" alt="osTicket-75" src="https://github.com/user-attachments/assets/27971c1b-3026-4f47-a718-142de70571d3" />
 
 </p>
-76
+Open the folder "sites" on the left side under the connections tab
 <br />
 
 <p>
