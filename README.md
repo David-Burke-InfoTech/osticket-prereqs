@@ -207,12 +207,14 @@ Right-click the file icon on the taskbar.
 
 <p>
 <img width="1907" height="1076" alt="OSticket-26" src="https://github.com/user-attachments/assets/50bc4251-6a57-4166-a895-74897d3d3064" />
+<img width="1907" height="1076" alt="OSticket-27" src="https://github.com/user-attachments/assets/11653280-5731-4c28-b6e3-a9fdc07eb575" />
 
 </p>
 27
 <br />
 
 <p>
+<img width="1907" height="1076" alt="OSticket-26" src="https://github.com/user-attachments/assets/50bc4251-6a57-4166-a895-74897d3d3064" />
 <img width="1907" height="1076" alt="OSticket-27" src="https://github.com/user-attachments/assets/11653280-5731-4c28-b6e3-a9fdc07eb575" />
 
 </p>
