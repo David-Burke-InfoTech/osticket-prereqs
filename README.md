@@ -381,154 +381,158 @@ Click Next
 <img width="1913" height="1079" alt="OSticket-50" src="https://github.com/user-attachments/assets/5265be1b-5897-45c1-8680-581c58c522f4" />
 
 </p>
-51
+Click Execute
 <br />
 
 <p>
 <img width="1916" height="1079" alt="OSticket-51" src="https://github.com/user-attachments/assets/9138da6a-40f2-4e65-9436-a08cf66dbb6d" />
 
 </p>
-52
+Click Finish.
 <br />
 
 <p>
 <img width="1917" height="1076" alt="OSticket-52" src="https://github.com/user-attachments/assets/497dbf5a-f6cd-4111-ba3c-7ac04eba7508" />
 
 </p>
-53
+Type "ISS" in the search bar on the desktop.
+Right-click on Internet Information Services and run it as admin.
 <br />
 
 <p>
 <img width="1917" height="1076" alt="OSticket-52" src="https://github.com/user-attachments/assets/497dbf5a-f6cd-4111-ba3c-7ac04eba7508" />
 
 </p>
-54
+Open PHP Manager.
 <br />
 
 <p>
 <img width="1919" height="1079" alt="OSticket-54" src="https://github.com/user-attachments/assets/21a492be-8d10-45eb-8428-d93f82f098fe" />
 
 </p>
-55
+Click 'register new PHP version".
 <br />
 
 <p>
 <img width="1915" height="1079" alt="OSticket-55" src="https://github.com/user-attachments/assets/0692f79f-6623-4073-88b6-c2e945abcba4" />
 
 </p>
-56
+Click the three-dot box.
 <br />
 
 <p>
 <img width="1919" height="1079" alt="OSticket-56" src="https://github.com/user-attachments/assets/b23ffd3c-c40a-463b-acd2-c9bfe1c16ce0" />
 
 </p>
-57
+Click the Windows(C:) drive and select PHP file.
 <br />
 
 <p>
 <img width="1917" height="1079" alt="OSticket-57" src="https://github.com/user-attachments/assets/9d4d9375-58cd-4816-9c41-fcf1abdc5e6f" />
 
 </p>
-58
+Select php-cgi and click open.
 <br />
 
 <p>
 <img width="1919" height="1079" alt="OSticket-58" src="https://github.com/user-attachments/assets/be75c56a-9900-4466-8bc7-3cd965bacfc4" />
 
 </p>
-59
+Click OK.
 <br />
 
 <p>
 <img width="1919" height="1079" alt="OSticket-59" src="https://github.com/user-attachments/assets/bc268fc3-756c-49a4-97ec-67149c2c0a74" />
 
 </p>
-60
+We will now want to stop and start the server.
+Select osTicket-vm, on the right side of the screen, click stop.
 <br />
 
 <p>
 <img width="1913" height="1079" alt="OSticket-60" src="https://github.com/user-attachments/assets/063d5a1d-060d-4519-926b-927e5cc7cdaa" />
 
 </p>
-61
+Give the server 10 seconds to turn off and click Start .
 <br />
 
 <p>
 <img width="1915" height="1079" alt="OSticket-61" src="https://github.com/user-attachments/assets/4a45ce39-79da-40d4-9ee3-a3c581c9c533" />
 
 </p>
-62
+Minimize this window so we have just our 2 file explorer windows showing.
 <br />
 
 <p>
 <img width="1914" height="1079" alt="OSticket-62" src="https://github.com/user-attachments/assets/c4d7ba51-3707-4444-9396-aec645e7ac89" />
 
 </p>
-63
+Right-click the osTicket-v1.15.8 Zip file and click Extract All.
 <br />
 
 <p>
 <img width="1919" height="1079" alt="OSticket-63" src="https://github.com/user-attachments/assets/6e08940e-9d0d-410c-8c72-5891555f528e" />
 
 </p>
-64
+Click Extract.
 <br />
 
 <p>
 <img width="1919" height="1079" alt="OSticket-64" src="https://github.com/user-attachments/assets/927ed31a-b504-477f-adf4-b4741c277c48" />
 
 </p>
-65
+Open the osTicket-v1.15.8 file.
 <br />
 
 <p>
 <img width="1912" height="1079" alt="OSticket-65" src="https://github.com/user-attachments/assets/bd39143f-485c-428f-8047-c6226a791535" />
 
 </p>
-66
+Open the inetpub file.
 <br />
 
 <p>
 <img width="1913" height="1076" alt="OSticket-66" src="https://github.com/user-attachments/assets/18d5a049-621c-4b64-8e07-972b1e92868b" />
 
 </p>
-67
+Open the wwwroot file.
 <br />
 
 <p>
 <img width="1914" height="1079" alt="OSticket-67" src="https://github.com/user-attachments/assets/fdc628fe-9381-468d-a3f4-c7681ef16921" />
 
 </p>
-68
+Click and drag the Upload file from the osTicket-v1.15.8 folder to the wwwroot folder.
 <br />
 
 <p>
 <img width="1914" height="1079" alt="OSticket-68" src="https://github.com/user-attachments/assets/e02797fb-f121-4490-b93f-4597fb761c6b" />
 
 </p>
-69
+Upload should now be in the wwwroot folder.
 <br />
 
 <p>
 <img width="1917" height="1079" alt="osTicket-69" src="https://github.com/user-attachments/assets/e7e123b5-03ba-4a97-8733-71d6adc63276" />
 
 </p>
-70
+Right-click the upload file and rename it to "osTicket" without any misspellings.
 <br />
 
 <p>
 <img width="1916" height="1079" alt="osTicket-70" src="https://github.com/user-attachments/assets/1d642c2f-8808-4c5a-9cf5-1c114a6351c8" />
 
 </p>
-71
+osTicket
 <br />
 
 <p>
 <img width="1914" height="1079" alt="osTicket-71" src="https://github.com/user-attachments/assets/a1f07666-b385-414b-bb9c-63f8d36198a3" />
 
 </p>
-72
+We should now have the two file explorer windows open 
+One with osTicket is renamed under the wwwroot folder 
+The osTicket-v1.15.8 folder only contains a file named scripts
 <br />
 
 <p>
