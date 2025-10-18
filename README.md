@@ -95,14 +95,14 @@ Click Turn Windows features on or off
 <img width="1909" height="1074" alt="OSticket-10" src="https://github.com/user-attachments/assets/e153f7e6-d101-4d59-9fb3-d28862e1ca65" />
 
 </p>
-11
+A new window will appear, titled "Windows Features." You will notice a lot of features you can turn on or off. Select the feature called "Internet Information Services". A drop-down will appear with other features.
 <br />
 
 <p>
 <img width="1905" height="1075" alt="OSticket-11" src="https://github.com/user-attachments/assets/c5ff9ecf-4d52-4e93-ac01-33f7b14d9fb6" />
 
 </p>
-12
+Select the feature "World Wide Web Services". Again, a drop-down will appear with other features.
 <br />
 
 <p>
