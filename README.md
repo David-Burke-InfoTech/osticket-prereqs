@@ -198,7 +198,7 @@ Click "Finish".
 <br />
 
 <p>
-<img width="1912" height="1076" alt="OSticket-24" src="https://github.com/user-attachments/assets/6ad601ce-2b11-49a3-8da3-3ab542bc5841" />
+<img width="1912" height="1074" alt="OSticket-25" src="https://github.com/user-attachments/assets/43c6a6e5-968f-4a63-b95c-6d321ddfea8c" />
 
 </p>
 Open a second file explorer window.
